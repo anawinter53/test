@@ -1,4 +1,1 @@
-Roses are red, 
-violets are blue.
-Sugar is sweet, 
-and so are you :)
+Pretend there's another poem here...
